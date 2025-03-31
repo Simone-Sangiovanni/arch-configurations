@@ -1,2 +1,2 @@
-# arch-configurations
-configuration scripts for arch linux
+# Arch Configurations
+Configuration scripts for arch linux
