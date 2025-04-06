@@ -1,6 +1,4 @@
 # Arch Configurations
-Linux configuration
-
 Run
 
 > sudo chmod +x setup.sh
