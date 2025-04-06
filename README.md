@@ -4,6 +4,7 @@ Linux configuration
 Run
 
 > sudo chmod +x setup.sh
+
 > ./setup.sh
 
 packages.txt contain the list of packages the must be installed.
