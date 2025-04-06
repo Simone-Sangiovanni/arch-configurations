@@ -1,0 +1,5 @@
+kitty
+zsh
+nvim
+obsidian
+sublime-text

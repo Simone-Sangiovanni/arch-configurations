@@ -1,11 +1,22 @@
 # Arch Configurations
 Linux configuration
 
-packages_list.txt contain the list of packages the must be installed.
+Run
 
-zsh_setup.sh is the script used to setup my zsh configuration.
+> sudo chmod +x setup.sh
+> ./setup.sh
+
+packages.txt contain the list of packages the must be installed.
+
+The scripts folder contain the scripts that are going to be invoked from the setup.sh script
+
+### Scripts
+- repo.sh add third party repositories and mirrors usefull to install packages 
+- blackarch.sh install the blackarch mirrors, so I can have the pentesting tools 
+- install.sh install the packages listed in packages_list.txt
+- zsh_setup.sh is used to setup my zsh configuration
+- sublime_text.sh set my custom configuration for sublime text
 
 
-
-### After completing the script execution
-- set kitty as the default terminal
+### TODO after the scripts finished the execution
+- set kitty as default terminal emulator
